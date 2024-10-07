@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|c:\\users\\user\\source\\repos\\cafemgtapi1\\cafemgtapi1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|solutionrelative:cafemgtapi1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|c:\\users\\user\\source\\repos\\cafemgtapi1\\cafemgtapi1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|solutionrelative:cafemgtapi1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|c:\\users\\user\\source\\repos\\cafemgtapi1\\cafemgtapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|solutionrelative:cafemgtapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|c:\\users\\user\\source\\repos\\cafemgtapi1\\cafemgtapi1\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|solutionrelative:cafemgtapi1\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|c:\\users\\user\\source\\repos\\cafemgtapi1\\cafemgtapi1\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|solutionrelative:cafemgtapi1\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|c:\\users\\user\\source\\repos\\cafemgtapi1\\cafemgtapi1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|solutionrelative:cafemgtapi1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|c:\\users\\user\\source\\repos\\cafemgtapi1\\cafemgtapi1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|solutionrelative:cafemgtapi1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|c:\\users\\user\\source\\repos\\cafemgtapi1\\cafemgtapi1\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|solutionrelative:cafemgtapi1\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|c:\\users\\user\\source\\repos\\cafemgtapi1\\cafemgtapi1\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|solutionrelative:cafemgtapi1\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|c:\\users\\user\\source\\repos\\cafemgtapi1\\cafemgtapi1\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|solutionrelative:cafemgtapi1\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|c:\\users\\user\\source\\repos\\cafemgtapi1\\cafemgtapi1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|solutionrelative:cafemgtapi1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|c:\\users\\user\\source\\repos\\cafemgtapi1\\cafemgtapi1\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|solutionrelative:cafemgtapi1\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|c:\\users\\user\\source\\repos\\cafemgtapi1\\cafemgtapi1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|solutionrelative:cafemgtapi1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|c:\\users\\user\\source\\repos\\cafemgtapi1\\cafemgtapi1\\models\\foodiedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|solutionrelative:cafemgtapi1\\models\\foodiedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|c:\\users\\user\\source\\repos\\cafemgtapi1\\cafemgtapi1\\cafemgtapi1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A3A21F47-6A7A-46FD-8BFB-EF7C17197AC7}|CafeMgtAPI1\\CafeMgtAPI1.csproj|solutionrelative:cafemgtapi1\\cafemgtapi1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CafeMgtAPI1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Models\\Category.cs",
+              "RelativeToolTip": "CafeMgtAPI1\\Models\\Category.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:11:35.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "CafeMgtAPI1\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Models\\Cart.cs",
+              "RelativeToolTip": "CafeMgtAPI1\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:11:33.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CafeMgtAPI1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Models\\Product.cs",
+              "RelativeToolTip": "CafeMgtAPI1\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:51:51.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "CafeMgtAPI1\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Models\\Payment.cs",
+              "RelativeToolTip": "CafeMgtAPI1\\Models\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:51:49.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "CafeMgtAPI1\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "CafeMgtAPI1\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:51:45.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CafeMgtAPI1\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CafeMgtAPI1\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:51:14.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "CafeMgtAPI1\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "CafeMgtAPI1\\Controllers\\PaymentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:50:45.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "CafeMgtAPI1\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "CafeMgtAPI1\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:50:17.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "CafeMgtAPI1\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "CafeMgtAPI1\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:49:52.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "CafeMgtAPI1\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "CafeMgtAPI1\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:49:21.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "CafeMgtAPI1\\Controllers\\CartsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "CafeMgtAPI1\\Controllers\\CartsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:48:30.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\appsettings.json",
+              "RelativeDocumentMoniker": "CafeMgtAPI1\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\appsettings.json",
+              "RelativeToolTip": "CafeMgtAPI1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T10:47:41.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FoodieDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Models\\FoodieDbContext.cs",
+              "RelativeDocumentMoniker": "CafeMgtAPI1\\Models\\FoodieDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Models\\FoodieDbContext.cs",
+              "RelativeToolTip": "CafeMgtAPI1\\Models\\FoodieDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:46:47.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Program.cs",
+              "RelativeDocumentMoniker": "CafeMgtAPI1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\Program.cs",
+              "RelativeToolTip": "CafeMgtAPI1\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:46:47.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CafeMgtAPI1",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\CafeMgtAPI1.csproj",
+              "RelativeDocumentMoniker": "CafeMgtAPI1\\CafeMgtAPI1.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CafeMgtAPI1\\CafeMgtAPI1\\CafeMgtAPI1.csproj",
+              "RelativeToolTip": "CafeMgtAPI1\\CafeMgtAPI1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-05T10:45:48.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

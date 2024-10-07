@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CafeMgtAPI1.props" />
+</Project>
